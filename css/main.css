@@ -1,27 +1,66 @@
 .roboto {
   font-family: 'Roboto Slab', serif;
 }
-
 .lato {
   font-family: 'Lato', sans-serif;
 }
-
 .big {
   font-size: 18px;
 }
-
 .titlebig {
   font-size: 50px;
 }
-
 .titlemed{
   font-size: 25px;
 }
-
 .titlemargin{
   margin: 50px 0px;
 }
-
 .subtitlemargin{
   margin: 30px 0px;
+}
+.ora {
+  color: #F9A91A !important;
+}
+.bg-ora {
+  background-color: #F9A91A;
+}
+.bg-wh{
+  background-color: #FFF;
+}
+.pad-sec {
+  padding: 50px 0px;
+}
+.pad-foot{
+  padding: 20px 0px;
+}
+.wh {
+  color:white !important;
+}
+.bt-or{
+  color: white;
+  background-color: #F9A91A;
+  border: 1px solid #F9A91A;
+}
+.pad-plug{
+  padding: 30px;
+  margin-top: 30px;
+}
+img {
+  width: 30%;
+}
+
+.navbar{
+  border-radius: 0px !important;
+  padding-top: 0px !important;
+}
+.black {
+  color: black;
+}
+
+ul li {
+  list-style: none;
+}
+.ptop{
+  padding-top: 100px;
 }
